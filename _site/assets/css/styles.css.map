@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n\nbody {\n    padding-top: 70px;\n    \n}\n\n.container {\n    background-color: hue($color: #000000);\n}",
+		".current {\n    color: green\n}\n\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KACX,GAAC;;ADAD,AAAA,IAAI,CAAC,EACD,WAAW,EAAE,IAAI,GAEpB;;AAED,AAAA,UAAU,CAAC,EACP,gBAAgB,EAAE,IAAoB,GACzC"
+}
